@@ -4,11 +4,11 @@ import Layout from '../components/layout/Layout';
 // import '../styles/globals.css'
 
 
-export default function Home() {
+export default function Login() {
   return (
     <div>
       <Layout>
-        <h1>H1</h1>
+        <h1>Login</h1>
       </Layout>
     </div>
 

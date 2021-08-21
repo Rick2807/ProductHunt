@@ -4,11 +4,11 @@ import Layout from '../components/layout/Layout';
 // import '../styles/globals.css'
 
 
-export default function Home() {
+export default function Populars() {
   return (
     <div>
       <Layout>
-        <h1>H1</h1>
+        <h1>Populars</h1>
       </Layout>
     </div>
 
